@@ -6,6 +6,14 @@
           <option name="url" value="https://github.com/vnvkalyankrishna/testingboys.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-codecommit.us-east-2.amazonaws.com/v1/repos/webapp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-codecommit.us-east-2.amazonaws.com" />
+          <option name="userName" value="kalyan" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kalya\IdeaProjects" />
